@@ -42,7 +42,7 @@
 | ![homepage](Resources/homepage.png) | ![usermanage](Resources/usermanage.png) |
 |                                     |                                         |
 | ![productList](Resources/product.png)       | ![storeList](Resources/storeList.png)   |
-| ![logList](Resources/logList.png)       |    |
+| ![logList](Resources/logList.png)       | ![logList](Resources/systemConfig.png)   |
 
 
 ## ¹±Ï×´úÂë

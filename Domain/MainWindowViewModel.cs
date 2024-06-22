@@ -139,6 +139,12 @@ namespace hygge_imaotai.Domain
                 selectedIcon: PackIconKind.Book,
                 unselectedIcon: PackIconKind.Book);
 
+            yield return new DemoItem(
+                "系统设置",
+                typeof(SystemConfigControl),
+                selectedIcon: PackIconKind.Tools,
+                unselectedIcon: PackIconKind.Tools);
+
         }
 
         private bool DemoItemsFilter(object obj)
